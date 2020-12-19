@@ -15,7 +15,8 @@
         <!--<spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>-->
         <!-- <spring-cloud-alibaba.version>0.9.0.RELEASE</spring-cloud-alibaba.version>-->
         <!--<spring-cloud-alibaba.version>2.2.0.RELEASE</spring-cloud-alibaba.version>-->
-        <spring-cloud-alibaba.version>2.2.0.RELEASE</spring-cloud-alibaba.version>
+        <!--<spring-cloud-alibaba.version>2.2.0.RELEASE</spring-cloud-alibaba.version>-->
+        <spring-cloud-alibaba.version>2.2.2.RELEASE</spring-cloud-alibaba.version>
     </properties>
     <!--开源协议-阿帕奇2.0 -->
     <licenses>
