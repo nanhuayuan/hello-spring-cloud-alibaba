@@ -29,3 +29,5 @@ build/
 
 ### VS Code ###
 .vscode/
+hello-spring-cloud-alibaba-consumer/src/test/
+hello-spring-cloud-alibaba-provider/src/test/
